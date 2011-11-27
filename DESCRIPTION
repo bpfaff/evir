@@ -1,6 +1,6 @@
 Package: evir
-Version: 1.7-1
-Date: 2010-08-09
+Version: 1.7-2
+Date: 2011-11-27
 Title: Extreme Values in R
 Author: S original (EVIS) by Alexander McNeil 
   <mcneil@math.ethz.ch>, R port by Alec 

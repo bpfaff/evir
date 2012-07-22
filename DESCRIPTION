@@ -1,11 +1,8 @@
 Package: evir
-Version: 1.7-2
-Date: 2011-11-27
+Version: 1.7-3
+Date: 2011-07-22
 Title: Extreme Values in R
-Author: S original (EVIS) by Alexander McNeil 
-  <mcneil@math.ethz.ch>, R port by Alec 
-  Stephenson <alec_stephenson@hotmail.com>.
-Maintainer: Bernhard Pfaff <bernhard@pfaffikus.de>
+Authors@R: c(person("Bernhard", "Pfaff", email = "bernhard@pfaffikus.de", role = c("aut", "cre")), person("Alexander", "McNeil", email = "mcneil@math.ethz.ch", role = "aut", comment = "S original (EVIS)"), person("Alec", "Stephenson", email = "alec_stephenson@hotmail.com", role = "trl", comment = "R port of EVIS"))
 Depends: stats
 Description: Functions for extreme value theory, which may be 
   divided into the following groups; exploratory data analysis, 
